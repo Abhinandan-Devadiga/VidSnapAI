@@ -1,1 +1,1 @@
-ELEVENLABS_API_KEY = "sk_c49edd1ea0a17a1deca2eeecac756942ae4a8dc9dddc1a27"
+ELEVENLABS_API_KEY = ""
